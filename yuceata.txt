@@ -1,0 +1,32 @@
+﻿# YÜCE ATA
+
+**YÜCE ATA**, Telegram başta olmak üzere çeşitli internet topluluklarında faaliyet gösteren bağımsız bir topluluk ve tagdır.
+
+## Ne yapıyor?
+
+YÜCE ATA; insanlara yardımcı olmak, teknik bilgi paylaşmak, yazılım geliştirmek ve Telegram topluluklarını daha düzenli ve güvenli hâle getirmek üzerine çalışmalar yürütüyor.
+
+Topluluk içerisinde Python kodları ve çeşitli araçlar geliştiriliyor, uygun çalışmalar açık şekilde paylaşılıyor. Bunun yanında zararlı, dolandırıcılık içeren veya platform kurallarını ihlal eden kanallar ve hesaplar tespit edilerek raporlanıyor.
+
+Geçmişte Telegram üzerinde çeşitli araçlar ve farklı çalışmalarla da tanınan topluluk, zaman içerisinde daha geniş bir yapıya dönüşüyor.
+
+## Kim yönetiyor?
+
+YÜCE ATA'nın kurucusu **Nexel**.
+
+Topluluk içerisinde **Obanai, Kepo, Mexel** ve birçok farklı isim öne çıkıyor. YÜCE ATA yalnızca bu isimlerden oluşmuyor; tagı taşıyan ve topluluğa katkıda bulunan birçok kişi bulunuyor.
+
+## Amaçları
+
+- İnsanlara yardımcı olmak
+- Telegram'ı daha güvenli ve düzenli hâle getirmek
+- Zararlı içeriklerle mücadele etmek
+- Teknik bilgi ve yazılım paylaşmak
+- Açık kaynak çalışmalar geliştirmek
+- Topluluk içerisindeki dayanışmayı güçlendirmek
+
+## Kısaca
+
+**YÜCE ATA**, Telegram çevresinde oluşmuş; yazılım, teknik bilgi, topluluk dayanışması ve platform güvenliği üzerine faaliyet gösteren bağımsız bir Türk topluluğudur.
+
+**Bir tagdan fazlası.**
